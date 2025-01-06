@@ -1,0 +1,9 @@
+[submodule "website"]
+	path = website
+	url = https://github.com/eYesInYours/ik-blog-website.git
+[submodule "admin"]
+	path = admin
+	url = https://github.com/eYesInYours/ik-blog-admin.git
+[submodule "server"]
+	path = server
+	url = https://github.com/eYesInYours/ik-blog-server.git
